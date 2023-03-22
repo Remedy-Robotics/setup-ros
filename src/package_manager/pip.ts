@@ -4,6 +4,7 @@ import * as utils from "../utils";
 
 const pip3Packages: string[] = [
 	"argcomplete",
+	"catkin-pkg",
 	"colcon-bash==0.4.2",
 	"colcon-cd==0.1.1",
 	"colcon-cmake==0.2.27",
